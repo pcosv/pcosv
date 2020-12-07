@@ -4,5 +4,5 @@ I’m currently working as a Front-end Developer at [Guava Software](https://gua
 
 - :pencil2: [Medium](https://medium.com/@paula_vaz)
 - :computer: [dev.to](https://dev.to/pcosvaz)
-- :bird: [Twitter](https://twitter.com/pcosv).
+- :bird: [Twitter](https://twitter.com/pcosv)
 - :woman: she/her
