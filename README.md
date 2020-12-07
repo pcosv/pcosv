@@ -1,4 +1,4 @@
-### Hi there :purple_heart:
+### Hey :purple_heart:
 
 I’m currently working as a Front-end Developer at [Guava Software](https://guava.software/), a software studio based in Recife, Brazil. At work, I’m passionate about creating things, solving real problems, learning a new programming language or framework if needed, and so on. Please contact me anytime if you want :)
 
