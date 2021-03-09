@@ -1,5 +1,6 @@
 ### Hey! :purple_heart:
-![](https://komarev.com/ghpvc/?username=pcosv&color=purple)
+![](https://komarev.com/ghpvc/?username=pcosv&color=blueviolet)
+
 I’m currently working as a Front-end Developer at [Guava Software](https://guava.software/), a software studio based in Recife, Brazil. Please contact me anytime if you want :)
 
 - :pencil2: [Medium](https://medium.com/@paula_vaz)
