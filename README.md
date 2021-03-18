@@ -13,6 +13,3 @@ I’m currently working as a Front-end Developer at [Guava Software](https://gua
 ### My Skills :desktop_computer:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pcosv&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=pcosv&theme=midnight-purple&show_icons=true&count_private=true&include_all_commits=true&hide=prs,issues,contribs)
-
