@@ -11,6 +11,6 @@ I’m currently working as a Front-end Developer at [Guava Software](https://gua
 - :woman: she/her
 
 ### My Skills
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=midnight-purple&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=pcosv&theme=midnight-purple&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pcosv&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
