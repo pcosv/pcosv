@@ -10,5 +10,6 @@ I’m currently working as a Front-end Developer at [Guava Software](https://gua
 - :incoming_envelope: [LinkedIn](https://www.linkedin.com/in/paula-vaz/)
 - :woman: she/her
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+### My Skills
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=midnight-purple&show_icons=true)
+[![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
