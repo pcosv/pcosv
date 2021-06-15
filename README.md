@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=pcosv&color=blueviolet)
 
-I’m currently working as a Front-end Developer at [Guava Software](https://guava.software/), a software studio based in Recife, Brazil. Please contact me anytime if you want :)
+I’m currently working as a Front-end Developer at [Guava Software](https://guava.software/), a software studio based in Recife, Brazil. Please contact me anytime if you want to talk about front end stuff :)
 
 - :pencil2: [Medium](https://medium.com/@paula_vaz)
 - :computer: [dev.to](https://dev.to/pcosvaz)
