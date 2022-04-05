@@ -7,7 +7,3 @@
 - :bird: [Twitter](https://twitter.com/pcosv)
 - :incoming_envelope: [LinkedIn](https://www.linkedin.com/in/paula-vaz/)
 - :woman: she/her
-
-### My Skills :desktop_computer:
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pcosv&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
